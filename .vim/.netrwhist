@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/garrison/classes/winter2015/func/pro/jt/justtext/justtext/Import'
+let g:netrw_dirhist_2='/home/garrison/classes/winter2015/func/pro/jt/justtext/justtext/Settings'
+let g:netrw_dirhist_3='/home/garrison/projects/GarrisonJ.github.io/type-theme/_posts'
